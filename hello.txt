@@ -9,10 +9,3 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!888888
-hello git! master changed
-hello git! hot-fix changed
